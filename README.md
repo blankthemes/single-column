@@ -1,6 +1,6 @@
 ## Single Column
 
-Single Column is a blank theme by BlankThemes.com. Use it to create your own Ghost theme.
+Single Column is a blank Ghost theme by BlankThemes.com. Use it to create your own Ghost theme.
 
 ## Copyright & License
 

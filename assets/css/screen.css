@@ -7,7 +7,7 @@ Description: Single Column is blank theme for Ghost to help create your own.
 Version: 1.0
 License: GNU General Public License
 
-Fork on GitHub at http://github.com/blank-themes/single-column
+Fork on GitHub at https://github.com/blankthemes/single-column
 */
 
 /* ==========================================================================
@@ -725,23 +725,12 @@ margin on the iframe, cause it breaks stuff. */
 
 .archive-template .site-head {
     height: auto;
-    padding-bottom: 5rem;
-}
-
-.archive-template .site-head a {
-    color: #fff;
 }
 
 .archive-template .blog-logo {
-    display: block;
-    margin-top: 5rem;
 }
 
 .tag-archive-header {
-    padding: 20px 0;
-    margin: 4rem auto;
-    border-bottom: 1px solid #ccc;
-    position: relative;
 }
 
 

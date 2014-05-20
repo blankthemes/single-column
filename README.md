@@ -29,5 +29,16 @@ If you are new to using Ghost, we recommend checking out the following:
  * Switching Themes: http://docs.ghost.org/themes/
  * Publishing with Ghost: http://docs.ghost.org/usage/writing/
 
+## Make Single Column your own Ghost theme
 
+The purpose of Single Column is to make it easy for anyone to create a Ghost theme.
+
+## What files to edit
+
+The primary file to edit is the `default.hbs` file. This file includes footer credit links. If you are planning to create an entirely new theme, you'll need to update the following:
+
+  * `package.json` This stores the name of the theme in Ghost.
+  * `default.hbs` This file includes footer credit links that need to be updated.
+  * `screen.css` We've included theme name and author information in the stylesheet.
+  * You'll also need to rename the primary directory of the `single-column` theme.
 
